@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abel-carlesso-ogliari-046202351/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abel-carlesso-ogliari-046202351/" height="30" width="40" /></a>
 <a href="https://instagram.com/abel.ogliari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abel.ogliari" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@abelogliari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abelogliari" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@abelogliari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@abelogliari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
