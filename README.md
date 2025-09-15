@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelogliari-code&label=Profile%20views&color=0e75b6&style=flat" alt="abelogliari-code" /> </p>
 
-- 🔭 Estou atualmente trabalhando no projeto: **Extrator CATMAT-DA**
+- 🔭 Estou atualmente trabalhando no projeto: [**Extrator CATMAT-DA**](https://github.com/abelogliari-code/Extrator-CATMAT-DA)
 
 - 👨‍💻 Todos os meus projetos e atualizações estão disponíveis no meu site: [abelogliari.com.br](abelogliari.com.br)
 
