@@ -7,7 +7,7 @@
 
 - 👨‍💻 Todos os meus projetos e atualizações estão disponíveis no meu site: [abelogliari.com.br](abelogliari.com.br)
 
-- 👨‍💻 Buscando me desenvolver nas linguagens e ferramentas: **Docker, PostgreSQL, MySQL, Django e JavaScript!**
+- 👨‍💻 Buscando me desenvolver nas linguagens e ferramentas: **R, Docker, PostgreSQL, MySQL, Django e JavaScript!**
 
 - 📫 Você pode me contatar pelo seguinte e-mail: **abelogliari@gmail.com**
 
